@@ -1,0 +1,5 @@
+MOVIE: Full movie
+TIME STAMP SPECIFIER: START_TIME
+00:00:00 clip1
+00:01:30 clip2
+00:04:00 clip3
